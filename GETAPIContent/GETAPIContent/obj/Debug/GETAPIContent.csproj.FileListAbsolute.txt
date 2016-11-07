@@ -1,0 +1,13 @@
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\GETAPIContent.exe.config
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.csproj.App.config
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.csprojResolveAssemblyReference.cache
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\GETAPIContent.exe
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\GETAPIContent.pdb
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\Newtonsoft.Json.dll
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\Newtonsoft.Json.xml
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.exe
+c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.pdb
