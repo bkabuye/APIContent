@@ -11,3 +11,16 @@ c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPICont
 c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\bin\Debug\System.Net.Http.Primitives.xml
 c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.exe
 c:\users\brian_pc\documents\visual studio 2013\Projects\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.pdb
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\bin\Debug\GETAPIContent.exe.config
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.exe
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.pdb
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\bin\Debug\GETAPIContent.exe
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\bin\Debug\GETAPIContent.pdb
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\bin\Debug\Newtonsoft.Json.dll
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\bin\Debug\System.Net.Http.Extensions.dll
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\bin\Debug\System.Net.Http.Primitives.dll
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\bin\Debug\Newtonsoft.Json.xml
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\bin\Debug\System.Net.Http.Extensions.xml
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\bin\Debug\System.Net.Http.Primitives.xml
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.csproj.App.config
+D:\Users\bkabuye\Documents\APIContent\GETAPIContent\GETAPIContent\obj\Debug\GETAPIContent.csprojResolveAssemblyReference.cache

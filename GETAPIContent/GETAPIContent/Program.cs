@@ -17,6 +17,7 @@ namespace GETAPIContent
             var data = json.RequestContent();
             product = new Product(data);
             product.ParseData();
+            product.getBadData();
         }
     }
 
